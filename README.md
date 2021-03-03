@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is K.Phanudet, also known as FlyInSpace. 
+### 💻  I’m a Junior Back-end developer at Waylar Tech.
 
 <!--
 **PhanudetFlyInSpace/PhanudetFlyInSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a >
+    <img align="center" alt="FlyInSpace's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhanudetFlyInSpace&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india" />
+    <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&layout=compact&theme=vue" />
+    <img align="center" alt="FlyInSpace's Github Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PhanudetFlyInSpace&repo=Bot-Line-Practice-Covid&theme=vue" />
+</a>
+
