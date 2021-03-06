@@ -24,7 +24,7 @@
 </details>
 <br />
 <details>
-    <summary>:pushpin:My Repositorys</summary>
+    <summary>:pushpin: My Repositorys</summary>
     <img align="center" alt="FlyInSpace's Github Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PhanudetFlyInSpace&repo=Bot-Line-Practice-Covid&theme=vue" />
 </details>
 <br />
