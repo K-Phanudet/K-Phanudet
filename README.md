@@ -9,9 +9,8 @@
 --------
 
 #### :postbox: Contact info  
-[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
+>[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+><br />
 --------
 
 <details>
