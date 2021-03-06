@@ -1,25 +1,34 @@
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is K.Phanudet, also known as FlyInSpace. 
-### 💻  I’m a Junior Back-end developer at Waylar Tech.
+### `"Hello"` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm K.Phanudet, also known as FlyInSpace.:rocket: 
 
-<!--
-**PhanudetFlyInSpace/PhanudetFlyInSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 I’m currently working on junior back-end developer at Waylar Tech.
+* 🌱 I’m currently learning more about Back-end develop,DevOp,BigData and so on.
+* 👯 I’m looking to collaborate on open source
+* 💬 Ask me about ... Anything
 
 
-<a >
-    <img align="center" alt="FlyInSpace's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhanudetFlyInSpace&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india" />
-    <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&layout=compact&theme=vue" />
+--------
+
+#### :postbox: Contact info  
+[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+--------
+
+<details>
+    <summary>:bar_chart: GitHub Stats</summary>
+     <img align="center" alt="FlyInSpace's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhanudetFlyInSpace&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india" />
+</details>
+<br />
+<details>
+    <summary>:chart_with_upwards_trend: Most Used Languages</summary>
+     <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&layout=compact&theme=vue" />
+</details>
+<br />
+<details>
+    <summary>:pushpin:My Repositorys</summary>
     <img align="center" alt="FlyInSpace's Github Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PhanudetFlyInSpace&repo=Bot-Line-Practice-Covid&theme=vue" />
-</a>
+</details>
+<br />
+
+[linkedin]: https://linkedin.com/in/kphanudet
 
