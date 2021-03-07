@@ -20,7 +20,7 @@
 <br />
 <details>
     <summary>:chart_with_upwards_trend: Most Used Languages</summary>
-     <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&layout=compact&theme=vue" />
+     <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&theme=vue" />
 </details>
 <br />
 <details>
