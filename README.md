@@ -15,17 +15,17 @@
 
 <details>
     <summary>:bar_chart: GitHub Stats</summary>
-     <img align="center" alt="FlyInSpace's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhanudetFlyInSpace&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india" />
+     <img align="center" alt="FlyInSpace's Github Stats" src="https://github-readme-stats.vercel.app/api?username=K-Phanudet&count_private=true&show_icons=true&include_all_commits=true&theme=flag-india" />
 </details>
 <br />
 <details>
     <summary>:chart_with_upwards_trend: Most Used Languages</summary>
-     <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanudetFlyInSpace&theme=vue" />
+     <img align="center" alt="FlyInSpace's Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Phanudet&theme=vue" />
 </details>
 <br />
 <details>
     <summary>:pushpin: My Repositorys</summary>
-    <img align="center" alt="FlyInSpace's Github Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=PhanudetFlyInSpace&repo=Bot-Line-Practice-Covid&theme=vue" />
+    <img align="center" alt="FlyInSpace's Github Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=K-Phanudet&repo=Bot-Line-Practice-Covid&theme=vue" />
 </details>
 <br />
 
