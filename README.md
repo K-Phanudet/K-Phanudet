@@ -1,6 +1,6 @@
 ### `"Hello"` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm K.Phanudet, also known as FlyInSpace.:rocket: 
 
-* 💻 I’m currently working on junior back-end developer at Waylar Tech.
+* 💻 I’m currently working on software engineer at rentspree.
 * 🌱 I’m currently learning more about Back-end.
 * 👯 I’m looking to collaborate on open source
 * 💬 Ask me about ... Anything
